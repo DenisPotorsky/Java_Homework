@@ -8,7 +8,7 @@ public class Calculator {
             int b = 0;
             String op = "";
             while (true) {
-                System.out.println("Введите число a: ");
+                System.out.print("Введите число a: ");
 
                 if (sc.hasNextInt())
                     a = sc.nextInt();
