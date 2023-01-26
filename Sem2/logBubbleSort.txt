@@ -1,0 +1,1440 @@
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 5 и 4 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 7 и 6 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 865 и 43 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 865 и 765 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 865 и 8 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 865 и 7 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 865 и 45 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 865 и 7 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 865 и 45 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 865 и 5 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 865 и 73 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 865 и 45 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 765 и 8 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 765 и 7 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 765 и 45 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 765 и 7 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 765 и 45 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 765 и 5 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 765 и 73 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 765 и 45 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 43 и 8 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 43 и 7 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 45 и 7 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 45 и 5 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 73 и 45 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 8 и 7 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 43 и 7 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 45 и 5 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 8 и 7 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 43 и 5 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 8 и 5 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 7 и 5 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 7 и 5 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 7 и 5 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Поменяли местами число 6 и 5 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+
+янв. 26, 2023 12:04:07 PM BubbleSorting bubbleSort
+INFO: Ничего не поменяли местами 
+

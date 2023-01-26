@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
         System.out.println("Чтобы выйти из калькулятора - введите команду Stop");
-        try (Scanner sc = new Scanner(System.in)) {
+        Scanner sc = new Scanner(System.in);
             int a = 0;
             int b = 0;
             String op = "";
@@ -41,4 +41,3 @@ public class Calculator {
             }
         }
     }
-}
