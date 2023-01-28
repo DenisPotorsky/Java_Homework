@@ -12,9 +12,9 @@ public class MinMaxMid {
         fillList(list);
         printList(list);
         double mid = average(list);
-        System.out.println(mid);
-        System.out.println(Collections.max(list));
-        System.out.println(Collections.min(list));
+        System.out.println("Среднее: " + mid);
+        System.out.println("Максимальное: " + Collections.max(list));
+        System.out.println("Минимальное: " + Collections.min(list));
     }
 
     public static void fillList(List<Integer> list) {
