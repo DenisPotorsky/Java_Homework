@@ -15,7 +15,7 @@ public class Main {
         machine.addHotDrink(cappuccino);
         machine.addDrink(cola);
 
-        System.out.println(machine.getProduct("latte", 100, 70));
+        System.out.println(machine.getProduct("espresso", 50, 80));
         System.out.println(machine.getProduct("Coca-Cola", 1000));
 
     }

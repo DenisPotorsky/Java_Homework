@@ -1,12 +1,11 @@
-import java.util.ArrayList;
 import java.util.List;
 
 public class DrinkVendingMachine {
 
-    public List<Drink> drinkList;
+    private List<Drink> drinkList;
 
     public DrinkVendingMachine(List<Drink> drinkList) {
-        this.drinkList = new ArrayList<>();
+        this.drinkList = drinkList;
     }
 
     public void addDrink(Drink dr) {

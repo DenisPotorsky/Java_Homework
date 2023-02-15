@@ -14,8 +14,7 @@ public class HotDrinkVendingMachine extends DrinkVendingMachine {
 
     protected HotDrink getProduct(String name, int volume, int temperature) {
         for (Drink d : drinks) {
-            if (d instanceof HotDrink) {
-                HotDrink hd = (HotDrink) d;
+            if (d instanceof HotDrink hd) {
                 if (hd.getName().equals(name) && hd.getVolume() == volume && hd.getTemperature() == temperature) {
                     return hd;
                 }
