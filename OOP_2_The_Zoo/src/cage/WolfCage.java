@@ -1,14 +1,14 @@
 package cage;
 
 import animals.Animal;
-import animals.Lion;
 import animals.Wolf;
+import iterator.WolfIterator;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Iterator;
 
-public class WolfCage implements AnimalCage, Iterable<Wolf> {
+public class WolfCage implements AnimalCage<Wolf>, Iterable<Wolf> {
     private int pollution = 0;
     private static final int MAX_POLLUTION = 90;
     private ArrayList<Wolf> wolfs;
@@ -28,12 +28,12 @@ public class WolfCage implements AnimalCage, Iterable<Wolf> {
         return pollution;
     }
 
-    public ArrayList<Lion> addAnimal(Animal animal) {
-        ArrayList<Lion> lions = new ArrayList<>();
-        if (animal instanceof Lion) {
-            lions.add((Lion) animal);
+    public ArrayList<Wolf> addAnimal(Wolf wolf) {
+        ArrayList<Wolf> w = new ArrayList<>();
+        if (wolf instanceof Wolf) {
+            wolfs.add((Wolf) wolf);
         }
-        return lions;
+        return wolfs;
     }
 
     @Override
@@ -50,7 +50,7 @@ public class WolfCage implements AnimalCage, Iterable<Wolf> {
 
 
     public int cleanCage() {
-        return 0;
+        return pollution = 0;
     }
 
     @Override

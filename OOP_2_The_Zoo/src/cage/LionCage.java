@@ -7,7 +7,7 @@ import animals.LionComparator;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class LionCage implements AnimalCage {
+public class LionCage implements AnimalCage<Lion> {
     private int pollution = 0;
     private static final int MAX_POLLUTION = 100;
     private ArrayList<Lion> lions;
@@ -36,7 +36,7 @@ public class LionCage implements AnimalCage {
         return pollution;
     }
 
-    public ArrayList<Lion> addAnimal(Animal animal) {
+    public ArrayList<Lion> addAnimal(Lion animal) {
         lions.add((Lion) animal);
         return lions;
     }

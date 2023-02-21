@@ -1,7 +1,8 @@
-public class Drink {
+package drinks;
 
-    private String name;
-    private int volume;
+public abstract class Drink {
+    protected String name;
+    protected int volume;
 
     public Drink(String name, int volume) {
         this.name = name;
@@ -12,11 +13,6 @@ public class Drink {
         return name;
     }
 
-    public int getVolume() {
-        return volume;
-    }
-
-    @Override
     public String toString() {
         return name;
     }

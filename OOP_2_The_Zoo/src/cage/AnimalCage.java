@@ -4,10 +4,10 @@ import animals.Animal;
 
 import java.util.ArrayList;
 
-public interface AnimalCage {
+public interface AnimalCage<T> {
     int getCagePollution();
 
-    ArrayList addAnimal(Animal animal);
+    ArrayList addAnimal(T animal);
 
     int deliverFood(int foodWeight);
 

@@ -1,3 +1,5 @@
+package drinks;
+
 public class HotDrink extends Drink {
     protected int temperature;
 
@@ -9,9 +11,4 @@ public class HotDrink extends Drink {
     public int getTemperature() {
         return temperature;
     }
-
-//    @Override
-//    public String toString() {
-//        return super.toString();
-//    }
 }

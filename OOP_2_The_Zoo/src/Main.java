@@ -1,6 +1,7 @@
+import animalUtils.AnimalUtils;
 import animals.Wolf;
 import cage.WolfCage;
-import cage.WolfIterator;
+import iterator.WolfIterator;
 
 import java.util.ArrayList;
 
@@ -15,16 +16,13 @@ public class Main {
 
         WolfCage wc = new WolfCage(wolfs);
 
+        System.out.println(wc);
+        AnimalUtils.sortAnimals(wolfs);
+        System.out.println(wc);
 
-        System.out.println(wc);
-        wc.wolfSort();
-        System.out.println(wc);
-        
         WolfIterator wi = new WolfIterator(wolfs);
         for (Wolf w : wc) {
             System.out.println(w);
         }
-
-
     }
 }

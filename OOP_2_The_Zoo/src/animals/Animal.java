@@ -4,7 +4,7 @@ public abstract class Animal {
     protected int weight;
     protected int numberOfLimbs;
     protected int age;
-
+    
     public Animal(int age, int weight, int numberOfLimbs) {
         this.age = age;
         this.weight = weight;
