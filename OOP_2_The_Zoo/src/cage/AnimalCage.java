@@ -6,10 +6,12 @@ import java.util.ArrayList;
 
 public interface AnimalCage {
     int getCagePollution();
+
     ArrayList addAnimal(Animal animal);
 
-    int deliverFood(int foodWeight, Animal animal);
+    int deliverFood(int foodWeight);
 
-    int cleanCage(int pollution);
+    int cleanCage();
+
     Animal getAnimal();
 }

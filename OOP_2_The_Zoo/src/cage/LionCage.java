@@ -2,8 +2,10 @@ package cage;
 
 import animals.Animal;
 import animals.Lion;
+import animals.LionComparator;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class LionCage implements AnimalCage {
     private int pollution = 0;
@@ -11,6 +13,14 @@ public class LionCage implements AnimalCage {
     private ArrayList<Lion> lions;
 
     public LionCage(ArrayList<Lion> lions) {
+        this.lions = lions;
+    }
+
+    public ArrayList<Lion> getLions() {
+        return lions;
+    }
+
+    public void setLions(ArrayList<Lion> lions) {
         this.lions = lions;
     }
 
@@ -31,32 +41,44 @@ public class LionCage implements AnimalCage {
         return lions;
     }
 
-    @Override
     public int deliverFood(int foodWeight, Animal animal) {
-        animal.feed(foodWeight);
+        return 0;
+    }
+
+    @Override
+    public int deliverFood(int foodWeight) {
+        int portion = foodWeight / lions.size();
+        for (var lion : lions) {
+            lion.feed(portion);
+        }
         if (pollution + 10 < MAX_POLLUTION) {
             pollution += 10;
-        }
-        else System.out.println("Cage is too polluted. You need to clean it");;
+        } else System.out.println("Cage is too polluted. You need to clean it");
         return pollution;
     }
 
     @Override
-    public int cleanCage(int pollution) {
+    public int cleanCage() {
         return pollution = 0;
     }
-
 
     @Override
     public Animal getAnimal() {
         if (!lions.isEmpty()) {
             Animal lion = lions.get(0);
             lions.remove(0);
-        return lion;
-        }
-        else {
+            return lion;
+        } else {
             System.out.println("Cage is empty");
         }
         return null;
+    }
+
+    public void sortLions() {
+        Collections.sort(lions);
+    }
+
+    public void lionManeSort() {
+        Collections.sort(lions, new LionComparator());
     }
 }

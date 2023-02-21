@@ -1,12 +1,12 @@
 package animals;
 
 public abstract class Animal {
-    protected int yearOfBirth;
     protected int weight;
     protected int numberOfLimbs;
+    protected int age;
 
-    public Animal(int yearOfBirth, int weight, int numberOfLimbs) {
-        this.yearOfBirth = yearOfBirth;
+    public Animal(int age, int weight, int numberOfLimbs) {
+        this.age = age;
         this.weight = weight;
         this.numberOfLimbs = numberOfLimbs;
     }
@@ -19,14 +19,6 @@ public abstract class Animal {
         }
     }
 
-
-    public int getYearOfBirth() {
-        return yearOfBirth;
-    }
-
-    public void setYearOfBirth(int yearOfBirth) {
-        this.yearOfBirth = yearOfBirth;
-    }
 
     public int getWeight() {
         return weight;
@@ -45,6 +37,14 @@ public abstract class Animal {
     }
 
     public abstract int getMaxWeight();
+
+    public int getAge() {
+        return age;
+    }
+
+    public int setAge(int age) {
+        return this.age = age;
+    }
 
     public abstract String getType();
 }

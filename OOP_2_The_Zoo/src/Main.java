@@ -1,24 +1,30 @@
-import animals.Animal;
-import animals.Lion;
-import cage.LionCage;
-import factory.LionsFactory;
+import animals.Wolf;
+import cage.WolfCage;
+import cage.WolfIterator;
 
 import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        ArrayList<Lion> lions = LionsFactory.createLions(4);
-        lions.get(0).setManeVolume(20);
-        lions.get(0).setWeight(30);
-        lions.get(0).setNumberOfLimbs(4);
-        lions.get(0).setYearOfBirth(2000);
-        LionCage lionCage = new LionCage(lions);
-        System.out.println(lionCage);
-        lionCage.deliverFood(30, lions.get(1));
-        System.out.println(lions.get(1).getWeight());
-        System.out.println(lionCage.getCagePollution());
-        Animal leo = lionCage.getAnimal();
-        System.out.println(leo);
-        System.out.println(lionCage);
+        ArrayList<Wolf> wolfs = new ArrayList<>();
+        wolfs.add(new Wolf(3, 5, 4));
+        wolfs.add(new Wolf(1, 2, 4));
+        wolfs.add(new Wolf(2, 3, 4));
+        wolfs.add(new Wolf(4, 6, 4));
+        wolfs.add(new Wolf(5, 8, 4));
+
+        WolfCage wc = new WolfCage(wolfs);
+
+
+        System.out.println(wc);
+        wc.wolfSort();
+        System.out.println(wc);
+        
+        WolfIterator wi = new WolfIterator(wolfs);
+        for (Wolf w : wc) {
+            System.out.println(w);
+        }
+
+
     }
 }
