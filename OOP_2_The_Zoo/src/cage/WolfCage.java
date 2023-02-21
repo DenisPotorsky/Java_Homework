@@ -3,6 +3,7 @@ package cage;
 import animals.Animal;
 import animals.Lion;
 import animals.Wolf;
+import iterator.WolfIterator;
 
 import java.util.ArrayList;
 import java.util.Comparator;
