@@ -1,6 +1,7 @@
-package terminal;
+package terminal.animalsExecutable;
 
 import animals.Snake;
+import terminal.comandExecutable.CommandExecutable;
 import zoo.Zoo;
 
 public class CreateSnakeExecutable implements CommandExecutable {
@@ -14,6 +15,5 @@ public class CreateSnakeExecutable implements CommandExecutable {
 
     public void execute() {
         zoo.createSnake(snake);
-        System.out.println("Snake is created and added to cage");
     }
 }

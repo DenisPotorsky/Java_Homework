@@ -6,8 +6,9 @@ import cage.LionCage;
 import cage.SnakeCage;
 import cage.WolfCage;
 import factory.LionsFactory;
-import terminal.MyParser;
-import terminal.TerminalReader;
+import terminal.comandExecutable.LogingCommandExecutableFactory;
+import terminal.parsing.MyParser;
+import terminal.reader.TerminalReader;
 import zoo.Zoo;
 
 import java.util.ArrayList;
@@ -34,8 +35,10 @@ public class Main {
 
 
         MyParser parser = new MyParser();
+        //CommandExecutableFactoryImpl factory = new CommandExecutableFactoryImpl(zoo1);
+        LogingCommandExecutableFactory factory = new LogingCommandExecutableFactory(zoo1);
         TerminalReader terminal = TerminalReader.newTerminalReader(parser);
-        terminal.runReader(zoo1);
+        terminal.runReader(factory);
 
 
     }
