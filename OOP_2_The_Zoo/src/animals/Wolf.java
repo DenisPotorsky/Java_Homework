@@ -11,7 +11,7 @@ public class Wolf extends Animal implements Comparable<Wolf> {
     protected static final String TYPE = "Wolf";
 
     public String toString() {
-        return "Wolf: " + " weight: " + weight + " age: " + age;
+        return "Wolf: " + " age: " + age + " weight: " + weight;
     }
 
     public int getMaxWeight() {

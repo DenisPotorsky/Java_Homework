@@ -1,13 +1,12 @@
 package cage;
 
 import animals.Wolf;
-import iterator.WolfIterator;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Iterator;
 
-public class WolfCage implements AnimalCage<Wolf>, Iterable<Wolf> {
+public class WolfCage implements AnimalCage<Wolf> {
     private int pollution = 0;
     private static final int MAX_POLLUTION = 90;
     private ArrayList<Wolf> wolfs;
@@ -58,9 +57,8 @@ public class WolfCage implements AnimalCage<Wolf>, Iterable<Wolf> {
             Wolf wolf = wolfs.get(0);
             wolfs.remove(0);
             return wolf;
-        } else {
-            System.out.println("Cage is empty");
         }
+        else System.out.println("Клетка с волками пуста");
         return null;
     }
 
@@ -68,9 +66,5 @@ public class WolfCage implements AnimalCage<Wolf>, Iterable<Wolf> {
         //Collections.sort(wolfs, new WolfComparator());
         wolfs.sort(Comparator.comparing(Wolf::getAge)
                 .thenComparing(Wolf::getWeight));
-    }
-
-    public Iterator<Wolf> iterator() {
-        return new WolfIterator(wolfs);
     }
 }

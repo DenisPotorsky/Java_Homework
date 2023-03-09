@@ -10,14 +10,6 @@ public class Snake extends Animal {
         this.bodyLength = bodyLength;
     }
 
-    public int getBodyLength() {
-        return bodyLength;
-    }
-
-    public void setBodyLength(int bodyLength) {
-        this.bodyLength = bodyLength;
-    }
-
     @Override
     public int getMaxWeight() {
         return MAX_WEIGHT;
@@ -26,5 +18,8 @@ public class Snake extends Animal {
     @Override
     public String getType() {
         return TYPE;
+    }
+    public String toString() {
+        return "Snake: " + " age: " + age + " weight: " + weight;
     }
 }

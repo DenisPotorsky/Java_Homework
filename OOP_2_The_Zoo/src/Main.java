@@ -6,7 +6,8 @@ import cage.LionCage;
 import cage.SnakeCage;
 import cage.WolfCage;
 import factory.LionsFactory;
-import terminal.comandExecutable.LogingCommandExecutableFactory;
+import iterator.ZooIterator;
+import terminal.commandExecutable.LoggingCommandExecutableFactory;
 import terminal.parsing.MyParser;
 import terminal.reader.TerminalReader;
 import zoo.Zoo;
@@ -19,8 +20,6 @@ public class Main {
         wolfs.add(new Wolf(3, 5, 4, 4));
         wolfs.add(new Wolf(1, 2, 4, 5));
         wolfs.add(new Wolf(2, 3, 4, 3));
-        wolfs.add(new Wolf(4, 6, 4, 2));
-        wolfs.add(new Wolf(5, 8, 4, 1));
         WolfCage wolfCage = new WolfCage(wolfs);
 
         ArrayList<Lion> lions = LionsFactory.createLions(2);
@@ -30,15 +29,14 @@ public class Main {
         snakes.add(new Snake(1, 2, 3, 4));
         SnakeCage snakeCage = new SnakeCage(snakes);
 
-
         Zoo zoo1 = new Zoo(lionCage, wolfCage, snakeCage);
-
+        ZooIterator iterator = new ZooIterator(lions, wolfs, snakes);
 
         MyParser parser = new MyParser();
-        //CommandExecutableFactoryImpl factory = new CommandExecutableFactoryImpl(zoo1);
-        LogingCommandExecutableFactory factory = new LogingCommandExecutableFactory(zoo1);
         TerminalReader terminal = TerminalReader.newTerminalReader(parser);
-        terminal.runReader(factory);
+        LoggingCommandExecutableFactory fac = new LoggingCommandExecutableFactory(zoo1);
+        //CommandExecutableFactoryImpl factory = new CommandExecutableFactoryImpl(zoo1);
+        terminal.runReader(fac, iterator);
 
 
     }

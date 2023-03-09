@@ -45,9 +45,8 @@ public class SnakeCage implements AnimalCage<Snake> {
             Snake snake = snakes.get(0);
             snakes.remove(0);
             return snake;
-        } else {
-            System.out.println("Cage is empty");
         }
+        else System.out.println("Клетка со змеями пуста");
         return null;
     }
 

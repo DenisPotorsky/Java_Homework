@@ -1,11 +1,15 @@
 package zoo;
 
+import animals.Animal;
 import animals.Lion;
 import animals.Snake;
 import animals.Wolf;
 import cage.AnimalCage;
 
-public class Zoo {
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class Zoo{
     private AnimalCage<Lion> lionCage;
     private AnimalCage<Wolf> wolfCage;
     private AnimalCage<Snake> snakeTerrarium;
@@ -35,7 +39,6 @@ public class Zoo {
     public void deleteWolf() {
         wolfCage.getAnimal();
     }
-
     @Override
     public String toString() {
         return lionCage.toString() + "  " + wolfCage.toString() + "   " + snakeTerrarium.toString();

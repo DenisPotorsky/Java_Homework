@@ -1,7 +1,7 @@
 package terminal.animalsExecutable;
 
 import animals.Snake;
-import terminal.comandExecutable.CommandExecutable;
+import terminal.commandExecutable.CommandExecutable;
 import zoo.Zoo;
 
 public class CreateSnakeExecutable implements CommandExecutable {

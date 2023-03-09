@@ -63,17 +63,8 @@ public class LionCage implements AnimalCage<Lion> {
             Lion lion = lions.get(0);
             lions.remove(0);
             return lion;
-        } else {
-            System.out.println("Cage is empty");
         }
+        else System.out.println("Клетка со львами пуста");
         return null;
-    }
-
-    public void sortLions() {
-        Collections.sort(lions);
-    }
-
-    public void lionManeSort() {
-        Collections.sort(lions, new LionComparator());
     }
 }

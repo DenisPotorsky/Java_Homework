@@ -1,4 +1,4 @@
-package terminal.comandExecutable;
+package terminal.commandExecutable;
 
 public interface CommandExecutable {
     void execute();

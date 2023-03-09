@@ -12,14 +12,6 @@ public class Lion extends Animal implements Comparable<Lion> {
         this.maneVolume = maneVolume;
     }
 
-    public int getManeVolume() {
-        return maneVolume;
-    }
-
-    public void setManeVolume(int maneVolume) {
-        this.maneVolume = maneVolume;
-    }
-
     @Override
     public int getMaxWeight() {
         return MAX_WEIGHT;
@@ -41,8 +33,6 @@ public class Lion extends Animal implements Comparable<Lion> {
     }
 
     public String toString() {
-        return "Lion{" +
-                "age=" + age +
-                '}';
+        return "Lion: age = " + age + " weigth: " + weight;
     }
 }
