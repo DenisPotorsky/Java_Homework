@@ -43,7 +43,7 @@ public class DataCheking {
         if (!isNumeric(data[4])) {
             throw new DataFormatException("Телефон введен в неверном формате");
         }
-        if (data[5].contains("fm")) {
+        if (!"fm".contains(data[5])) {
             throw new DataFormatException("Пол введен неверно!");
         }
     }
